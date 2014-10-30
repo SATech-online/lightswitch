@@ -1,0 +1,3 @@
+satechonline.com
+
+Lightswitch implements a RF24L01 2.4Ghz Transciever, an ATmega328P and an SPDT 5v relay, to allow remote switching of 120VAC.
